@@ -1,0 +1,1 @@
+Un sql de la Base de datos utilizada en el ejemplo se ecuentra en la carpeta /database con el nombre de "crud_laravel.sql"
